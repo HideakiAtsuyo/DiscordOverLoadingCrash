@@ -1,0 +1,29 @@
+{
+  "name": "dolc",
+  "version": "1.0.0",
+  "description": "Discord Over Loading Crash",
+  "main": "Main.js",
+  "scripts": {
+    "test": "node Main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HideakiAtsuyo/DiscordOverLoadingCrash.git"
+  },
+  "keywords": [
+    "Discord",
+    "Over",
+    "Loading",
+    "Crash"
+  ],
+  "author": "HideakiAtsuyo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HideakiAtsuyo/DiscordOverLoadingCrash/issues"
+  },
+  "homepage": "https://github.com/HideakiAtsuyo/DiscordOverLoadingCrash#readme",
+  "dependencies": {
+    "glob": "^7.2.0",
+    "javascript-obfuscator": "^4.0.0"
+  }
+}
